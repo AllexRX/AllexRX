@@ -1,9 +1,7 @@
 ## Olá, eu sou o Alex! 👋
 
 - Em constante aprendizagem
-- Estudando HTML, CSS e JavaScript 📚
-- iniciando graduação em Análise e desenvolvimento de sistemas 🎓
-- Ele/dele
+- Graduando em Análise e desenvolvimento de sistemas 🎓
 
 <br>
 <div style="display: inline_block"> <br>
